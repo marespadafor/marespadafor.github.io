@@ -9,8 +9,8 @@ profile:
   image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Department of Sociology II, Social Stratification  </p>
-    <p> Office 202, Obispo Trejo, 2</p>
+    <p> Dpt. of Sociology II,  </p>
+    <p> Room 202 Obispo Trejo, 2</p>
     <p> Madrid, Spain 28040 </p>
 
 news: false  # includes a list of news items
