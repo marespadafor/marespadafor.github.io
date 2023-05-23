@@ -1,12 +1,8 @@
 ---
-layout: archive
-title: "cv"
+layout: cv
 permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
+title: cv
+nav: true
+nav_order: 4
+cv_pdf: Espadafor_CV.pdf
 ---
-
-{% include base_path %}
-
-[See my CV here](http://marespadafor.github.io/files/Espadafor_CV.pdf) 
