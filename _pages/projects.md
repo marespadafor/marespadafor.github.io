@@ -8,6 +8,9 @@ nav_order: 2
 display_categories: [work, fun]
 horizontal: false
 ---
+I am broadly interested in inequalities: how these are transmitted through generations or through different institutional configurations.
+
+Given my interdisciplinary background, I am also interested in how historical and contemporary states and the rule of law can shape or produce (if any) inequalities. For example, I am developing a project which looks at the consequences of women's reproductive rights, and other which explores the impact of state building decisions in the aftermath of a civil conflict.
 
 <!-- pages/projects.md -->
 <div class="projects">
