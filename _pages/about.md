@@ -19,8 +19,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Mar, a quantitative sociologist from Almería (Spain), one of the [sunniest cities](https://weather-and-climate.com/average-monthly-hours-Sunshine,almeria-andalucia-es,Spain) in Europe. I got my PhD at the European University Institute (Florence) and now I am a Postdoctoral Researcher at UNED (Madrid) working in the Horizon Europe project [MapIneq](https://mapineq.eu/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I'm interested in broad topics such as social stratification, with a particular focus on educational and health inequalities. In my research I use quantitative methods and (aim for) causal inference designs. You can learn more about my research [here](https://marespadafor.github.io/research/).
+
+I also have a keen interest on policy analysis. I'm a Junior Fellow of Future Policy Lab (FPL), a recently-created think tank whose aim is to shape the public debate in Spain on some of the most pressing issues of our time. My research has been featured in [elDiario.es](https://www.eldiario.es/sociedad/abrir-casas-apuestas-cerca-institutos-baja-rendimiento-escolar-barrios-humildes_1_8440297.html), [Cadena SER](https://cadenaser.com/ser/2021/10/31/sociedad/1635675473_674477.html), and [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml), in Spain.
+
+If you work on similar topics or are interested in my work, please do get in touch via email at mcanizares@poli.uned.es 
+
+![](http://marespadafor.github.io/images/productive.jpeg)
