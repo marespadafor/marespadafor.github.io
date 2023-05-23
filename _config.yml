@@ -7,7 +7,7 @@ first_name: Mar
 middle_name: C.
 last_name: Espadafor
 email: mcanizares@poli.uned.es
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description:  > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
