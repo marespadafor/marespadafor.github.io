@@ -6,39 +6,10 @@ description: Edit the `_data/repositories.yml` and change the `github_users` and
 nav: true
 nav_order: 3
 ---
+### Replication Materials
 
-## GitHub users
+- The negative consequences of gambling opportunities on human capital formation: Evidence from Spain, with Sergi Martínez. [Replication materials](http://github.com/marespadafor/replication_gambling). Access to the paper
 
-{% if site.data.repositories.github_users %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for user in site.data.repositories.github_users %}
-    {% include repository/repo_user.html username=user %}
-  {% endfor %}
-</div>
+### Original data
+- [Panel data on Madrid High Schools (2013-2018)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4NSBK)
 
----
-
-{% if site.repo_trophies.enabled %}
-{% for user in site.data.repositories.github_users %}
-  {% if site.data.repositories.github_users.size > 1 %}
-  <h4>{{ user }}</h4>
-  {% endif %}
-  <div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% include repository/repo_trophies.html username=user %}
-  </div>
-
-  ---
-
-{% endfor %}
-{% endif %}
-{% endif %}
-
-## GitHub Repositories
-
-{% if site.data.repositories.github_repos %}
-<div class="repositories d-flex flex-wrap flex-md-row flex-column justify-content-between align-items-center">
-  {% for repo in site.data.repositories.github_repos %}
-    {% include repository/repo.html repository=repo %}
-  {% endfor %}
-</div>
-{% endif %}
