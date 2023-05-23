@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher at UNED
 
 profile:
   align: right
-  image: profile.jpeg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Department of Sociology II, Social Stratification  </p>
@@ -29,4 +29,5 @@ I also have a keen interest on policy analysis. I'm a Junior Fellow of Future Po
 
 If you work on similar topics or are interested in my work, please do get in touch!
 
-![](http://marespadafor.github.io/assessts/img/productive.jpeg)
+![](http://marespadafor.github.io/assets/img
+/productive.jpeg)
