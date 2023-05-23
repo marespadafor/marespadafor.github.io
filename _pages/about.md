@@ -29,5 +29,4 @@ I also have a keen interest on policy analysis. I'm a Junior Fellow of Future Po
 
 If you work on similar topics or are interested in my work, please do get in touch!
 
-image: productive.jpeg
-![](http://marespadafor.github.io/images/productive.jpeg)
+![](http://marespadafor.github.io/assessts/img/productive.jpeg)
