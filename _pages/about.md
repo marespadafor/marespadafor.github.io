@@ -6,7 +6,7 @@ subtitle: Postdoctoral Researcher at UNED
 
 profile:
   align: right
-  image: profile.jpg
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p> Department of Sociology II, Social Stratification  </p>
