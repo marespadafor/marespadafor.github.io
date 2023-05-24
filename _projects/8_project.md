@@ -2,7 +2,7 @@
 layout: page
 title:  4
 description: Pollution and Educational Performance in Madrid
-img: evo_plot.png
+img: /assets/img/evo_plot.png
 importance: 4
 category: Natural Experiments
 ---

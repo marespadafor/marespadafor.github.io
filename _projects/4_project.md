@@ -2,7 +2,7 @@
 layout: page
 title:  2
 description: Grade Retention
-img: dag2.png
+img: /assets/img/dag2.png
 importance: 2
 category: Educational Inequalities
 ---

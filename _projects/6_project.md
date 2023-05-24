@@ -2,7 +2,7 @@
 layout: page
 title:  2
 description: Spain's 1970 school reform and current inequality levels with Alicia G Sierra
-img: abc.jpeg
+img: /assets/img/abc.jpeg
 importance: 2
 category: Natural Experiments
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: 3
 description: Teacher Bias in Germany with Carlos Gil Hernández
-img: non-cog.png
+img: /assets/img/non-cog.png
 importance: 3
 category: Educational Inequalities
 ---
