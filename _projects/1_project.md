@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: PhD Dissertation
+description: 
+img: 
 importance: 1
-category: work
+category: Dissertation
 ---
 
 
@@ -15,61 +15,29 @@ category: work
     img: /assets/img/12.jpg
     ---
 
+The thesis proposes a novel conceptual framework to investigate the mechanism underlying the intergenerational reproduction of inequalities. It focuses on the heterogeneity by social origins in the prevalence of a potentially negative event/condition achievement and in the penalty associated with that outcome for future educational success. The comic in figure 1 summarizes this conceptual framework and sets the base for a graphic novel on the micro mechanism underlying intergenerational inequalities.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/illustration2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Author's creative director. Belén Cañizares Espadafor's (author's sister) elaboration.
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+Upper-class kids are less likely to fall to the flames as they usually benefit from safety nets provided by their parents and in case that happens, they are more likely to climb back on a successful path leading to making it to their first educational transition.
+ 
+The empirical chapters are based on causal designs and implication analysis. They combine methodological sophistication with careful theoretical dissection of the different arguments to develop implications that can be tested empirically.
+ 
+In the first chapter I study selection processes into grade retention in Spain and how the negative impact of grade repetition on the probability of post-compulsory education enrollment is moderated by family SES.
+ 
+In the second chapter, I investigate gender inequalities in educational achievement and attainment. The starting point of this research is a finding of several previous studies that boys' disadvantage in educational attainment is mostly concentrated among low-SES male students. I first confirm this result for the transition to post-compulsory education in UK and then sets out to study when and how such a low SES boy penalty comes about, or, which is equivalent, when and how high SES boys manage to catch up compared to their same class
+girls.
+ 
+Finally, in the third chapter, I study the moderation effect of family SES on the negative effect of an early-age school start in Germany, using an innovative causal design that allows overcoming some limitations of previous studies.
+ 
+ 
+Ultimately, this thesis proposes a novel framework to analyse social origin inequalities that can be profitably applied to a variety of other processes related to social origin inequalities. It also provides new causal findings on the three specific case studies considered.
+ 
