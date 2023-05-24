@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 
+title: 3
 description: State building & Educational Inequalities in Perú with Guillermo Kreiman
-img:
+img: parrallels1.jpg
 importance: 3
 category: Natural Experiments
 ---

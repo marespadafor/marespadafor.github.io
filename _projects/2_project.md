@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  
+title:  1
 description: School Entry Age & Inequality in achievement in Germany with Giampiero Passaretta
-img:
+img: figure_41.png
 importance: 1
 category: Natural Experiments
 ---

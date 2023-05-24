@@ -1,8 +1,8 @@
 ---
 layout: page
-title:  
+title:  1
 description: Gender Inequalities in the UK
-img: 
+img: fig_.png
 redirect: 
 importance: 1
 category: Educational Inequalities
