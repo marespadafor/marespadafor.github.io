@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dissertation
+title: 
 description: Here you can read a short summary of my dissertation
 img: 
 importance: 1
