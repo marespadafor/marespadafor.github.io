@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Dissertation
-description: a project with a background image
-img: assets/img/2.jpg
+description:
+img: 
 importance: 1
 category: Dissertation
 ---

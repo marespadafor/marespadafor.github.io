@@ -1,8 +1,8 @@
 ---
 layout: page
-title: School entry age
-description: a project with a background image
-img: assets/img/3.jpg
+title: School Entry Age
+description: 
+img:
 importance: 2
 category: Educational Inequalities
 ---
