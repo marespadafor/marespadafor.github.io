@@ -19,9 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi!
-
-I'm Mar, a quantitative sociologist from Almería (Spain), one of the [sunniest cities](https://weather-and-climate.com/average-monthly-hours-Sunshine,almeria-andalucia-es,Spain) in Europe. I got my PhD at the European University Institute (Florence) and now I am a Postdoctoral Researcher at UNED (Madrid) working in the Horizon Europe project [MapIneq](https://mapineq.eu/).
+I a quantitative sociologist from Almería (Spain), one of the [sunniest cities](https://weather-and-climate.com/average-monthly-hours-Sunshine,almeria-andalucia-es,Spain) in Europe. I got my PhD at the European University Institute (Florence) and now I am a Postdoctoral Researcher at UNED (Madrid) working in the Horizon Europe project [MapIneq](https://mapineq.eu/).
 
 I am broadly interested in inequalities: how these are transmitted through generations or through different institutional configurations. In my research I use quantitative methods and (aim for) causal inference designs. 
 
