@@ -16,7 +16,7 @@ For some of the projects there is a working paper available upon request, and I 
 
 ## <span > Working papers </span>
 
-#### Espadafor, M. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
+##### Espadafor, M. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
 <details>
 <summary>Read more</summary>
 There is a growing literature showing the importance of family socioeconomic status (SES) for explaining the male disadvantage in education. However, when and through which channel these gaps emerge remains unclear. This article examines whether and when family SES moderates gender differences in several educational outcomes. 
@@ -29,7 +29,7 @@ Results suggest that girls and boys within each level of family SES start with e
 </details>
 <br>
 
-#### Espadafor, M. & Bernardi, F. The uneven risk and effect of grade retention across family origins.
+##### Espadafor, M. & Bernardi, F. The uneven risk and effect of grade retention across family origins.
 <details>
 
 <summary>Read more</summary>
@@ -40,7 +40,7 @@ This chapter focuses on the uneven effect of a remediation policy within the edu
 </details>
 <br>
 
-#### Espadafor, M. & Passaretta, G. Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
+##### Espadafor, M. & Passaretta, G. Does family socioeconomic status compensate for an early entry into school life? Evidence from Germany, with Giampiero Passaretta. 
 <details>
 <summary>Read more</summary>
 Previous literature shows that children who enter school at a younger age under perform compared to older classmates throughout school and adulthood.In this article, we analyse whether families differently react towards younger-for-grade children and when differences across family socioeconomic status (SES) in school entry age emerge. We contribute to the literature by providing an analytical example of one channel that could contribute to inequality in learning and achievement.
@@ -54,7 +54,7 @@ Overall, our results suggest that while high SES families do not react towards a
 ## <span > In preparation </span>
 
 
-#### Garcia Sierra, A. & Espadafor, M. ll that glitters is not gold: addressing the effect of parental education on children's attainment.
+##### Garcia Sierra, A. & Espadafor, M. ll that glitters is not gold: addressing the effect of parental education on children's attainment.
 <details>
 <summary>Read more</summary>
 The association between parental education and children's educational outcomes has been long studied. However, standard cross-sectional analyses often present endogeneity problems and fail to explore which parental characteristics drive these processes. In this article, we focus on the role of parental education. We explore if (1) changes in parental education are related, in the long term, to children's educational attainment and if (2) differential returns to schooling have implications for the overall transmission of educational (dis)advantages. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we leverage the 1970 Educational Reform in Spain to estimate the causal effect of parental education on children's attainment. This reform extended the compulsory school age, generating a sharp rise in educational attainment for the affected cohorts. Preliminary results suggest that exogeneous increases in educational attainment in the parent generation also translate into better educational outcomes for future generations. Conversely, these changes do not translate in an increase of the inter-generational transmission of educational inequalities across families.
@@ -64,7 +64,7 @@ The association between parental education and children's educational outcomes h
 </details>
 <br>
 
-#### Gil-Hernández, C.J., & Espadafor, M. An Elephant in the (Class)room? Teacher’s Bias in Grading and Track Recommendations by Student’s family SES
+##### Gil-Hernández, C.J., & Espadafor, M. An Elephant in the (Class)room? Teacher’s Bias in Grading and Track Recommendations by Student’s family SES
 <details>
 <summary>Read more</summary>
 Teachers are the gatekeepers and evaluators of academic merit in educational systems. The literature shows teachers’ bias in assessments as a function of students’ ascribed characteristics such as gender, ethnicity or socioeconomic status. Nevertheless, most previous research overlooks the role of teachers as relevant actors in the early stages of the status attainment process, suffers from methodological flaws, and focuses on gender or ethnicity. 
@@ -76,7 +76,7 @@ Results show that teachers perceive high-SES students more favourably. They assi
 
 ## <span > On going projects </span>
 
-#### Espadafor, M & Kreiman, G. Can State-Building Decisions Equalize the Playing Field in the Aftermath of Civil War? Evidence from Perú
+##### Espadafor, M & Kreiman, G. Can State-Building Decisions Equalize the Playing Field in the Aftermath of Civil War? Evidence from Perú
 <details>
 <summary>Read more</summary>
 
