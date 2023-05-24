@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Pollution and Educational Inequalities
-description: joint work with Risto Conte & Manuel Valdés
+title: Project 4
+description: Pollution and Educational Performance in Madrid
 img:
-importance: 3
+importance: 4
 category: Natural Experiments
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: School Entry Age
-description: 
+title: Project 1
+description: School Entry Age & Inequality in achievement in Germany
 img:
-importance: 3
+importance: 1
 category: Natural Experiments
 ---
 

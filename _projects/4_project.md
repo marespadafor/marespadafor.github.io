@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Grade Retention
-description: Prevalences and Penalties
+title: Project 2
+description: Grade Retention
 img:
 importance: 2
 category: Educational Inequalities

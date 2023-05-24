@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Gender
-description: 
+title: Project 2
+description: Gender Inequalities in the UK
 img: 
 redirect: 
-importance: 2
+importance: 1
 category: Educational Inequalities
 ---
 
