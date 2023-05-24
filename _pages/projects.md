@@ -2,17 +2,12 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here you can find the research projects I am working on
+description: Here you can find the projects I am working on at the moment
 nav: true
 nav_order: 2
-display_categories: [Educational Inequalities, Natural Experiments, Dissertation]
+display_categories: [Dissertation, Natural Experiments, Educational Inequalities]
 horizontal: false
 ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/productive.jpeg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
 
 <!-- pages/projects.md -->
 <div class="projects">
