@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here you can find my research projects.
 nav: true
 nav_order: 2
-display_categories: [Dissertation, Natural Experiments, Educational Inequalities]
+display_categories: [Dissertation]
 horizontal: false
 ---
 
