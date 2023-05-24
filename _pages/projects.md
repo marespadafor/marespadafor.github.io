@@ -14,7 +14,7 @@ For some of the projects there is a working paper available upon request, and I 
 
 
 
-### <span > Working papers </span>
+## <span > Working papers </span>
 
 #### Espadafor, M. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
 <details>
@@ -51,7 +51,7 @@ Overall, our results suggest that while high SES families do not react towards a
 </details>
 <br>
 
-### <span > In preparation </span>
+## <span > In preparation </span>
 
 
 #### Garcia Sierra, A. & Espadafor, M. ll that glitters is not gold: addressing the effect of parental education on children's attainment.
@@ -74,7 +74,7 @@ Results show that teachers perceive high-SES students more favourably. They assi
   </details>
 <br>
 
-### <span > On going projects </span>
+## <span > On going projects </span>
 
 #### Espadafor, M & Kreiman, G. Can State-Building Decisions Equalize the Playing Field in the Aftermath of Civil War? Evidence from Perú
 <details>
@@ -86,13 +86,6 @@ In this paper, we argue that the expansion of state capacity, through increased 
 We test these arguments focusing on the Peruvian Civil War (1980-1992).First, we leverage novel census data (1961-2017) to analyse whether districts that were either contested or controlled by the insurgent group, Sendero Luminoso, had lower levels of educational outcomes right after the conflict. Then, using a Difference in Differences design, we test whether war-time inequalities are compensated through an expansion of state reach to these areas. We expect that those communities contested or under insurgent control (war-time areas) had lower levels of educational access and attainment than those controlled by the state. We expect these inequalities to decrease or disappear by state building initiatives, such as the provision of public schools. Our study aims to challenge existent evidence on the relation between civil war dynamics and civil war showing how the dynamics of state expansion could end up with some of the most pervasive inequalities developed by internal armed conflicts. 
   </details>
 <br>
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/productive.jpeg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
-
 
 
 
