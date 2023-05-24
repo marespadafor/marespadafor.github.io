@@ -4,7 +4,7 @@ title: Dissertation
 description: Here you can read a short summary of my dissertation
 img: 
 importance: 1
-category:
+category: Dissertation
 ---
 
 The thesis proposes a novel conceptual framework to investigate the mechanism underlying the intergenerational reproduction of inequalities. It focuses on the heterogeneity by social origins in the prevalence of a potentially negative event/condition achievement and in the penalty associated with that outcome for future educational success. The comic in figure 1 summarizes this conceptual framework and sets the base for a graphic novel on the micro mechanism underlying intergenerational inequalities.
