@@ -2,7 +2,7 @@
 layout: page
 title: PhD
 description: Here you can read a short summary of my dissertation
-img: illustration2.jpg
+img: /assets/img/illustration2.jpg
 importance: 1
 category: Dissertation
 ---
