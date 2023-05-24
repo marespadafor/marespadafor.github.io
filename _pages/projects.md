@@ -2,12 +2,21 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Here you can find the projects I am working on at the moment
+description: Here you can find my research projects.
 nav: true
 nav_order: 2
 display_categories: [Dissertation, Natural Experiments, Educational Inequalities]
 horizontal: false
 ---
+
+Here you can find a summary of my dissertation as well as the current projects I am working on. 
+For some of the projects there is a working paper available upon request, and I will be happy to share it and discuss it with you in case you are interested!
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/productive.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
+
 
 <!-- pages/projects.md -->
 <div class="projects">
@@ -56,8 +65,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/productive.jpeg" title="" class="img-fluid rounded z-depth-1" %}
-    </div>
