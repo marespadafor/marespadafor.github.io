@@ -9,17 +9,14 @@ category: Dissertation
 
 The thesis proposes a novel conceptual framework to investigate the mechanism underlying the intergenerational reproduction of inequalities. It focuses on the heterogeneity by social origins in the prevalence of a potentially negative event/condition achievement and in the penalty associated with that outcome for future educational success. The comic in figure 1 summarizes this conceptual framework and sets the base for a graphic novel on the micro mechanism underlying intergenerational inequalities.
 
-{% raw %}
-```html
+
 <div class="row justify-content-sm-center">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/illustration2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/illustration2.jpg" title="" class="img-fluid rounded z-depth-1" %}
     </div>
-</div>
-<div class="caption">
+    <div class="caption">
     Author's creative director. Belén Cañizares Espadafor's (author's sister) elaboration.
 </div>
-```
 
 
 Upper-class kids are less likely to fall to the flames as they usually benefit from safety nets provided by their parents and in case that happens, they are more likely to climb back on a successful path leading to making it to their first educational transition.
