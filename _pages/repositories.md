@@ -12,4 +12,3 @@ nav_order: 3
 
 ### Original data
 - [Panel data on Madrid High Schools (2013-2018)](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/K4NSBK)
-
