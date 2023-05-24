@@ -5,7 +5,7 @@ permalink: /projects/
 description: Here you can find the projects I am working on at the moment
 nav: true
 nav_order: 2
-display_categories: [Dissertation, Natural Experiments, Educational Inequalities]
+display_categories: [Natural Experiments, Educational Inequalities]
 horizontal: false
 ---
 
@@ -56,3 +56,8 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
