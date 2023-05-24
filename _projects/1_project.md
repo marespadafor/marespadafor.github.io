@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PhD Dissertation
-description: 
+description: Here you can read a short summary of my dissertation
 img: 
 importance: 1
 category: Dissertation
