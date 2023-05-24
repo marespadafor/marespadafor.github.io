@@ -30,3 +30,8 @@ Given my interdisciplinary background, I am also interested in how historical an
 I also have a keen interest on policy analysis. I'm a Junior Fellow of Future Policy Lab (FPL), a recently-created think tank whose aim is to shape the public debate in Spain on some of the most pressing issues of our time. My research has been featured in [elDiario.es](https://www.eldiario.es/sociedad/abrir-casas-apuestas-cerca-institutos-baja-rendimiento-escolar-barrios-humildes_1_8440297.html), [Cadena SER](https://cadenaser.com/ser/2021/10/31/sociedad/1635675473_674477.html), and [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml), in Spain.
 
 If you work on similar topics or are interested in my work, please do get in touch!!
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-8 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/productive.jpeg" title="" class="img-fluid rounded z-depth-1" %}
+    </div>
