@@ -5,9 +5,10 @@ permalink: /projects/
 description: Here you can find the research projects I am working on
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [Educational Inequalities, Natural Experiments, Dissertation]
 horizontal: false
 ---
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/productive.jpeg" title="" class="img-fluid rounded z-depth-1" %}
