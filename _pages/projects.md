@@ -14,7 +14,7 @@ For some of the projects there is a working paper available upon request, and I 
 
 
 
-### <span style="color:#52adc8"> Working papers </span>
+### <span > Working papers </span>
 
 #### Espadafor, M. Are boys more vulnerable to family disadvantage? Evidence from the United Kingdom.
 <details>
@@ -51,7 +51,7 @@ Overall, our results suggest that while high SES families do not react towards a
 </details>
 <br>
 
-### <span style="color:#52adc8"> In preparation </span>
+### <span > In preparation </span>
 
 
 #### Garcia Sierra, A. & Espadafor, M. ll that glitters is not gold: addressing the effect of parental education on children's attainment.
@@ -74,7 +74,7 @@ Results show that teachers perceive high-SES students more favourably. They assi
   </details>
 <br>
 
-### <span style="color:#52adc8"> On going projects </span>
+### <span > On going projects </span>
 
 #### Espadafor, M & Kreiman, G. Can State-Building Decisions Equalize the Playing Field in the Aftermath of Civil War? Evidence from Perú
 <details>
