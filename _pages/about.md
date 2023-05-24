@@ -28,8 +28,3 @@ I'm interested in broad topics such as social stratification, with a particular 
 I also have a keen interest on policy analysis. I'm a Junior Fellow of Future Policy Lab (FPL), a recently-created think tank whose aim is to shape the public debate in Spain on some of the most pressing issues of our time. My research has been featured in [elDiario.es](https://www.eldiario.es/sociedad/abrir-casas-apuestas-cerca-institutos-baja-rendimiento-escolar-barrios-humildes_1_8440297.html), [Cadena SER](https://cadenaser.com/ser/2021/10/31/sociedad/1635675473_674477.html), and [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml), in Spain.
 
 If you work on similar topics or are interested in my work, please do get in touch!
-
-![][def]
-
-
-[def]: assets/img/productive.jpeg
