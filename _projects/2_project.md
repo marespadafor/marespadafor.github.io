@@ -3,8 +3,8 @@ layout: page
 title: School Entry Age
 description: 
 img:
-importance: 2
-category: Educational Inequalities
+importance: 3
+category: Natural Experiments
 ---
 
 Joint work with Giampiero Passaretta
