@@ -15,6 +15,42 @@ For some of the projects there is a working paper available upon request, and I 
 
 
 ## <span > Working papers </span>
+##### Espadafor, M., Lievore, I., Valdés, M., and Bernardi, F. Educationally downwardly mobile but occupationally immobile? A Safety Net for Those Falling Short of Tertiary Education in Tertiary-Educated Families.
+<details>
+<summary>Read more</summary>
+
+
+This study diverges from conventional perspectives on educational inequality by
+scrutinising a relatively neglected group: individuals who experience downward educational
+mobility despite having tertiary-educated parents. Drawing on data from
+the European Social Survey across 25 European countries, we explore the occupational
+outcomes of those falling short of tertiary education. Two central research
+questions guide our analysis: first, whether these individuals have an increased likelihood
+of securing high socioeconomic status occupations compared to peers from
+non-tertiary-educated families, and second, if there are consistent patterns of occupational
+attainment across European countries for this group.
+Guided by compensatory advantage theory, we anticipate that individuals from
+socioeconomically advantaged families, who fail to attain tertiary education, are
+less susceptible to falling into unskilled employment. Preliminary results uncover a
+notable disparity: individuals who fail to attain tertiary education but have tertiaryeducated
+parents are about 3 times less likely to end up in a low ISEI position when
+compared to their peers who do not have a tertiary-educated parent. This highlights
+the crucial role of parental education in shaping the employment trajectory of those
+who fall short of tertiary education. We further contribute to the literature by
+applying a micro-class approach. We delve into the most prevalent occupations
+among those who fail to transition to tertiary education, unravelling some of the
+support structures provided by parents with tertiary education.
+This research contributes to the broader discourse on social mobility and challenges
+assumptions of education-based meritocracy in post-industrial societies. The
+study’s unique focus on educational downward mobility and a micro-class analysis
+enriches discussions on the nuanced relationship between education, socioeconomic
+background, and specific occupational attainment patterns.
+
+
+  - <i> Draft available upon request </i>. 
+  
+</details>
+<br>
 
 ##### Valdés, M., Espadafor, M., and Conte, Risto. Can a Low Emission Zone Improve Academic Performance? Evidence from a Natural Experiment in the City of Madrid
 <details>
