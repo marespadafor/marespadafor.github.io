@@ -19,8 +19,8 @@ identification.
 
 You can read more abour the course [here](https://www.upf.edu/documents/3966940/280241898/ABCs+of+Regression_RECSM_2024.docx.pdf/af2f21d7-2a74-f37e-e50c-f8958404030c?t=1702560541862)
 
-#### Tought at RECSM 2024: 01-03 July, Barcelona (Spain)
-#### Tought at TNSQUARE 2023: 26 October, Trento (Italy)
+-  [New date!! RECSM Summer School 2024](https://www.upf.edu/web/survey/2024-summer-methods-school): 01-03 July, Univerisdad Pompeu Fabra, Barcelona (Spain)
+-  Tought at TNSQUARE 2023: 26 October, Università di Trento, Trento (Italy)
 
 ### [Drawing Maps in R](https://github.com/marespadafor/drawingmaps)
 
