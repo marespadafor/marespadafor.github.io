@@ -113,10 +113,7 @@ Overall, our results suggest that while high SES families do not react towards a
 </details>
 <br>
 
-## <span > In preparation </span>
-
-
-##### Garcia Sierra, A. & Espadafor, M. ll that glitters is not gold: addressing the effect of parental education on children's attainment.
+##### Espadafor, M. and García Sierra, A. The intergenerational effect of educational expansion: evidence from a natural experiment in Spain.
 <details>
 <summary>Read more</summary>
 The association between parental education and children's educational outcomes has been long studied. However, standard cross-sectional analyses often present endogeneity problems and fail to explore which parental characteristics drive these processes. In this article, we focus on the role of parental education. We explore if (1) changes in parental education are related, in the long term, to children's educational attainment and if (2) differential returns to schooling have implications for the overall transmission of educational (dis)advantages. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we leverage the 1970 Educational Reform in Spain to estimate the causal effect of parental education on children's attainment. This reform extended the compulsory school age, generating a sharp rise in educational attainment for the affected cohorts. Preliminary results suggest that exogeneous increases in educational attainment in the parent generation also translate into better educational outcomes for future generations. Conversely, these changes do not translate in an increase of the inter-generational transmission of educational inequalities across families.
@@ -125,6 +122,8 @@ The association between parental education and children's educational outcomes h
 
 </details>
 <br>
+## <span > In preparation </span>
+
 
 ##### Gil-Hernández, C.J., & Espadafor, M. An Elephant in the (Class)room? Teacher’s Bias in Grading and Track Recommendations by Student’s family SES
 <details>
@@ -149,6 +148,15 @@ We test these arguments focusing on the Peruvian Civil War (1980-1992).First, we
   </details>
 <br>
 
+##### Espadafor, M & Cozzani, M. Abortion access and perinatal health in Spain.
+<details>
+<summary>Read more</summary>
+
+Women's reproductive rights---having the ability to choose whether and when to have children--- are linked to improved women's reproductive health and socioeconomic well-being. Does different access to contraceptives have an impact on infant health? In this paper, we examine the impact of access to abortion as an exogenous input into infant health production and women's health. 
+We examine the sharp expansion in access to abortion in Spain. Combining administrative data sets on voluntary termination of pregnancy and birth registers (2011-2019), we estimate the association between abortion rates and birth outcomes. We analyse the impact of different access to abortion on measures of infant health: the incidence of poor birth outcomes, and the neonatal mortality rate. Preliminary results point to an increase in positive birth outcomes where abortion rates are higher. This study will contribute to a growing body of work that points to the importance of women's autonomy as a determinant of their and their newborns' health.  
+
+  </details>
+<br>
 
 
 <!-- pages/projects.md -->
