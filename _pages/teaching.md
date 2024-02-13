@@ -7,8 +7,22 @@ nav: true
 nav_order: 5
 ---
 
+### The ABCs of Regression Discontinuity 
 
-# [Drawing Maps in R](https://github.com/marespadafor/drawingmaps)
+This course is designed for researchers with a basic understanding of quantitative analysis but
+willing to deepen into the various statistical and econometric techniques related to causal
+inference analysis. By the end of the course researchers will be able to:
+1. understand and critically engage with terminology and concepts behind causal
+identification.
+2. understand and perform causal inference designs in Stata or R.
+3. critically assess checks and threats of causal inference designs
+
+You can read more abour the course [here](https://www.upf.edu/documents/3966940/280241898/ABCs+of+Regression_RECSM_2024.docx.pdf/af2f21d7-2a74-f37e-e50c-f8958404030c?t=1702560541862)
+
+#### Tought at RECSM 2024: 01-03 July, Barcelona (Spain)
+#### Tought at TNSQUARE 2023: 26 October, Trento (Italy)
+
+### [Drawing Maps in R](https://github.com/marespadafor/drawingmaps)
 
 This is an introductory course on spatial data I taught within the CLIC Training workshops as part of the GEOSMITE Project at the European University Institute in 2020.
 

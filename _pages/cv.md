@@ -5,5 +5,5 @@ title: cv
 description: Here you can download my cv.
 nav: true
 nav_order: 4
-cv_pdf: Espadafor_CV (4).pdf
+cv_pdf: 2024_Espadafor_CV.pdf
 ---
