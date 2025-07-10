@@ -9,9 +9,9 @@ profile:
   image: profile.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p> Dpt. of Sociology II,  </p>
-    <p> Room 202 Obispo Trejo, 2</p>
-    <p> Madrid, Spain 28040 </p>
+    <p> National Office for Foresight and Strategy  </p>
+    <p> Ministry of Presidency </p>
+    <p> Complejo de la Moncloa, 28071 Madrid</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
