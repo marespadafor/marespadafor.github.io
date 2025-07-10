@@ -100,17 +100,6 @@ Overall, our results suggest that while high SES families do not react towards a
 </details>
 <br>
 
-##### Espadafor, M. and García Sierra, A. The intergenerational effect of educational expansion: evidence from a natural experiment in Spain.
-<details>
-<summary>Read more</summary>
-The association between parental education and children's educational outcomes has been long studied. However, standard cross-sectional analyses often present endogeneity problems and fail to explore which parental characteristics drive these processes. In this article, we focus on the role of parental education. We explore if (1) changes in parental education are related, in the long term, to children's educational attainment and if (2) differential returns to schooling have implications for the overall transmission of educational (dis)advantages. Using data from the Survey of Health, Ageing and Retirement in Europe (SHARE), we leverage the 1970 Educational Reform in Spain to estimate the causal effect of parental education on children's attainment. This reform extended the compulsory school age, generating a sharp rise in educational attainment for the affected cohorts. Preliminary results suggest that exogeneous increases in educational attainment in the parent generation also translate into better educational outcomes for future generations. Conversely, these changes do not translate in an increase of the inter-generational transmission of educational inequalities across families.
-
-  - <i>Presentation available upon request</i>. 
-
-</details>
-<br>
-## <span > In preparation </span>
-
 
 ##### Gil-Hernández, C.J., & Espadafor, M. An Elephant in the (Class)room? Teacher’s Bias in Grading and Track Recommendations by Student’s family SES
 <details>
